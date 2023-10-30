@@ -1,3 +1,12 @@
 * {
+    /* reset do css */
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
     font-family: 'Titillium Web', sans-serif;
+}
+
+header {
+    background-image: url(./imagens/img.png);
+    background-size: cover;
 }
